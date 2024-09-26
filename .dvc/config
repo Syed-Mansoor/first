@@ -1,0 +1,5 @@
+[core]
+    autostage = true
+    remote = local_storage
+['remote "local_storage"']
+    url = E:\first
