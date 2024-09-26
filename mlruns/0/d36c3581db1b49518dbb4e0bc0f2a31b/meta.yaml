@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/first/mlruns/0/d36c3581db1b49518dbb4e0bc0f2a31b/artifacts
+end_time: 1727358230569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d36c3581db1b49518dbb4e0bc0f2a31b
+run_name: handsome-hawk-896
+run_uuid: d36c3581db1b49518dbb4e0bc0f2a31b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727358212283
+status: 4
+tags: []
+user_id: HP

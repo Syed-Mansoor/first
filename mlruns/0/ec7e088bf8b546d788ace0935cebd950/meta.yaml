@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/first/mlruns/0/ec7e088bf8b546d788ace0935cebd950/artifacts
+end_time: 1727358465323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec7e088bf8b546d788ace0935cebd950
+run_name: burly-goose-652
+run_uuid: ec7e088bf8b546d788ace0935cebd950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727358456358
+status: 4
+tags: []
+user_id: HP

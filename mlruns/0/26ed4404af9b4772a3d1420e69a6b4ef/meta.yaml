@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/first/mlruns/0/26ed4404af9b4772a3d1420e69a6b4ef/artifacts
+end_time: 1727358488463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26ed4404af9b4772a3d1420e69a6b4ef
+run_name: gaudy-frog-834
+run_uuid: 26ed4404af9b4772a3d1420e69a6b4ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727358479452
+status: 4
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/first/mlruns/0/8184ca40068a4043afa741258a4d9a8d/artifacts
+end_time: 1727358323373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8184ca40068a4043afa741258a4d9a8d
+run_name: bustling-deer-95
+run_uuid: 8184ca40068a4043afa741258a4d9a8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727358323263
+status: 3
+tags: []
+user_id: HP

@@ -7,7 +7,7 @@ import pandas as pd
 from diamond.component.data_ingestion import DataIngestion
 from diamond.component.data_transformation import DataTransformation
 from diamond.component.model_trainer import ModelTrainer
-
+from diamond.component.model_evaluation import ModelEvaluation
 
 
 obj=DataIngestion()
@@ -21,3 +21,6 @@ train_arr,test_arr=data_transformation.initialize_data_transformation(train_data
 
 model_trainer_obj=ModelTrainer()
 model_trainer_obj.initate_model_training(train_arr,test_arr)
+
+model_evaluation=ModelEvaluation()
+model_evaluation.initiate_model_evaluation(train_arr,test_arr)
